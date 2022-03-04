@@ -4,30 +4,30 @@ I'm a University of Iowa Tippie College of Business Student pursuing a B.B.A in 
 
 ### First-Repository
 
-##### Table of contents
+#### Table of contents
 - [Project Title](#Project-Title)
 - [Description](#Description)
 - [How to Run the program](#How-to-run-program)
 - [Files Used](#files-used)
 - [Additional Documentation](#additional-documentation)
 - [Version Summary](#versioning)
-##### Project Title
+#### Project Title
 Baby Name Trends 
-##### Description
+#### Description
 Evaluate data file to determine trends in baby names.
-##### How to Run the Program 
+#### How to Run the Program 
 This is where I'd display and show how to run my program.
 
 
 ![Screen Shot 2022-03-03 at 10 29 24 PM](https://user-images.githubusercontent.com/100876060/156699841-92d830b8-d4a4-40d7-8910-e265aef1cb82.png)
 
-##### Files Used 
+#### Files Used 
 
 Image pulled from ![Nickelodeon](https://www.nick.com/) show **_The Fairly OddParents_**
 
 
-##### Additional Documentation
-No additional documentation at this time ##for now
-##### Version Summary
+#### Additional Documentation
+No additional documentation for now :monocle_face:
+#### Version Summary
 
 No versioning used, especially in this code
