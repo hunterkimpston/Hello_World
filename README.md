@@ -23,7 +23,7 @@ This is where I'd display and show how to run my program.
 
 ## Files Used 
 
-[Image]![Screen Shot 2022-03-03 at 10 29 24 PM](https://user-images.githubusercontent.com/100876060/156700244-c67795a1-9976-42ca-875d-6b1ec63a0e79.png) pulled from Nickelodeon show **_The Fairly OddParents_**
+Image pulled from ![Nickelodeon](https://www.nick.com/) show **_The Fairly OddParents_**
 
 
 ## Additional Documentation
