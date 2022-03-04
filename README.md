@@ -1,6 +1,6 @@
 # Hello_World
 
-I'm a University of Iowa Tippie College of Business Student pursuing a B.B.A in '_Business Analytics & Informations Sciences._'
+I'm a University of Iowa Tippie College of Business Student pursuing a B.B.A in _'Business Analytics & Informations Sciences.'_
 
 # First-Repository
 
@@ -16,7 +16,9 @@ Baby Name Trends
 ## Description
 Evaluate data file to determine trends in baby names.
 ## How to Run the Program 
-Explain here how you would run the program and what files need to be available. 
+This is where I'd display and show how to run my program
+(![Screen Shot 2022-03-03 at 10 29 24 PM](https://user-images.githubusercontent.com/100876060/156699841-92d830b8-d4a4-40d7-8910-e265aef1cb82.png)
+
 ```text
 RSample_BabyNames/
 └── 
