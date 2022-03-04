@@ -25,7 +25,7 @@ This is where I'd display and show how to run my program.
 Image pulled from ![Nickelodeon](https://www.nick.com/) show **_The Fairly OddParents_**.
 
 #### Additional Documentation
-No additional documentation for now... :monocle_face: [1]
+No additional documentation for now... :monocle_face: [^1]
 #### Version Summary
 No versioning used, especially in this code.
 
