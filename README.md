@@ -16,26 +16,14 @@ Baby Name Trends
 ## Description
 Evaluate data file to determine trends in baby names.
 ## How to Run the Program 
-This is where I'd display and show how to run my program
+This is where I'd display and show how to run my program.
 
 
 ![Screen Shot 2022-03-03 at 10 29 24 PM](https://user-images.githubusercontent.com/100876060/156699841-92d830b8-d4a4-40d7-8910-e265aef1cb82.png)
 
-```text
-RSample_BabyNames/
-└── 
-    │── README.md
-    │── babynames.csv
-    │── hw.R
-    │── examples.html
-   
-```
 ## Files Used 
 
-Datafile was pulled from the US Government website.
-Data contains baby names from social security card applications
-[title](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
-[Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+[Image]![Screen Shot 2022-03-03 at 10 29 24 PM](https://user-images.githubusercontent.com/100876060/156700244-c67795a1-9976-42ca-875d-6b1ec63a0e79.png) pulled from Nickelodeon show **_The Fairly OddParents_**
 
 
 ## Additional Documentation
