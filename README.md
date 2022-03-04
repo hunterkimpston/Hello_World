@@ -17,7 +17,9 @@ Baby Name Trends
 Evaluate data file to determine trends in baby names.
 ## How to Run the Program 
 This is where I'd display and show how to run my program
-(![Screen Shot 2022-03-03 at 10 29 24 PM](https://user-images.githubusercontent.com/100876060/156699841-92d830b8-d4a4-40d7-8910-e265aef1cb82.png)
+
+
+![Screen Shot 2022-03-03 at 10 29 24 PM](https://user-images.githubusercontent.com/100876060/156699841-92d830b8-d4a4-40d7-8910-e265aef1cb82.png)
 
 ```text
 RSample_BabyNames/
